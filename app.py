@@ -98,7 +98,7 @@ elif seccion == "Cursos y documentos (PDF)":
                 st.image(
                     ruta_img,
                     caption=doc["titulo"],
-                    use_container_width=True
+                    #use_container_width=True
                 )
             else:
                 st.warning(f"No se encontró la imagen: {doc['imagen']}")

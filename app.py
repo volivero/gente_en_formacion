@@ -43,7 +43,7 @@ docs = [
 ]
 
 # URL del Padlet (use la URL de embed o la normal)
-PADLET_URL = "URL_DEL_PADLET_AQUI"
+PADLET_URL = "https://padlet.com/jatabordag/gente-en-formaci-n-gobernanza-energ-tica-territorio-en-forma-8wnz374bedf7tk2g"
 
 
 # ==========================

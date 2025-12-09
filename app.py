@@ -17,22 +17,22 @@ PDF_DIR = "docs"
 # Lista de documentos
 docs = [
     {
-        "titulo": "Índice del Curso 1",
+        "titulo": "Indice Curso Solar Storybooks",
         "descripcion": "Contenido general del módulo 1, objetivos y estructura.",
         "archivo": "Indice_Curso_Solar_Storybooks.pdf"
     },
     {
-        "titulo": "Índice del Curso 2",
+        "titulo": "Indice Curso Eolico Storybooks",
         "descripcion": "Contenido general del módulo 2.",
         "archivo": "Indice_Curso_Eolico_Storybooks.pdf"
     },
     {
-        "titulo": "Índice del Curso 3",
+        "titulo": "Indice Curso Hidrógeno Storybooks",
         "descripcion": "Guía metodológica del módulo 3.",
         "archivo": "Indice_Curso_Hidrógeno_Storybooks.pdf"
     },
     {
-        "titulo": "Índice del Curso 4",
+        "titulo": "Indice Curso Geotermia Storybooks",
         "descripcion": "Material complementario del curso.",
         "archivo": "Indice_Curso_Geotermia_Storybooks.pdf"
     },

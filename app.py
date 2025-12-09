@@ -19,26 +19,26 @@ docs = [
     {
         "titulo": "Índice del Curso 1",
         "descripcion": "Curso Energia solar FV.",
-        "archivo": "Curso1.pdf",       # debe existir en docs/
-        "imagen": "Curso1.png"         # debe existir en img/
+        "archivo": "curso1.pdf",       # debe existir en docs/
+        "imagen": "curso1.png"         # debe existir en img/
     },
     {
         "titulo": "Índice del Curso 2",
         "descripcion": "Curso Energia Eólica",
-        "archivo": "Curso2.pdf",
-        "imagen": "Curso2.png"
+        "archivo": "curso2.pdf",
+        "imagen": "curso2.png"
     },
     {
         "titulo": "Índice del Curso 3",
         "descripcion": "Curso Hidrógeno",
-        "archivo": "Curso3.pdf",
-        "imagen": "Curso3.png"
+        "archivo": "curso3.pdf",
+        "imagen": "curso3.png"
     },
     {
         "titulo": "Índice del Curso 4",
         "descripcion": "Curso Geotermia",
-        "archivo": "Curso4.pdf",
-        "imagen": "Curso4.png"
+        "archivo": "curso4.pdf",
+        "imagen": "curso4.png"
     },
 ]
 
